@@ -12,6 +12,7 @@ The purpose of this project is to use Rails and mongo db. Basic scaffolding is u
 
 ## Developer
 - David Baynes
+- Added branch mongo_store_assignment
 
 ## Project References
  -  In class lecture by guest lecturer Terrence 
