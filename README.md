@@ -16,7 +16,7 @@ The purpose of this project is to use Rails and mongo db. Basic scaffolding is u
 ## Project References
  -  In class lecture by guest lecturer Terrence 
  -	Railscasts #238: http://railscasts.com/episodes/238-mongoid-revised?view=asciicast
-
+ 
 =======
 
 Date: Saturday April 26, 2014
