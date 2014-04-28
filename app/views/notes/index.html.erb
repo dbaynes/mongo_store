@@ -1,0 +1,4 @@
+<% @notes.each do |note|%>
+	<%= note.body%>
+<%end%>
+<%= link_to "New Note", new_note_path %>	
